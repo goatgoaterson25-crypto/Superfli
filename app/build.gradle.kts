@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.apollo.missioncontrol"
+    namespace = "com.apollo.Superfli"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.apollo.missioncontrol"
+        applicationId = "com.apollo.Superfli"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
