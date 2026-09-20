@@ -1,1 +1,5 @@
-{"name":"superfli","private":true,"version":"10.0.0-beast-fixed"}
+{
+  "name": "superfli",
+  "private": true,
+  "version": "12.2.0-stable-10k-no-crash"
+}
